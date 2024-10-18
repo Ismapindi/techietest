@@ -11,3 +11,4 @@ module.exports = ({env}) => ({
       },
     }, 
   })
+  console.log(process.env.DO_SPACE_ENDPOINT);
